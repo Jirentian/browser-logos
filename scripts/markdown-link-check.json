@@ -8,7 +8,8 @@
         }
     ],
     "ignorePatterns": [
-      { "pattern": "https:\/\/github\\.com\/[^\/]*\/browser-logos\/commit\/.*" }
+      { "pattern": "https:\/\/github\\.com\/[^\/]*\/browser-logos\/commit\/.*" },
+      { "pattern": "https:\/\/www.npmjs.com" }
     ],
     "retryCount": 5,
     "retryOn429": true
